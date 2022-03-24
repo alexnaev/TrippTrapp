@@ -28,6 +28,15 @@ require_once 'shared/header.php';
                         </div>
                     </form>
                     <h2 class="border-bottom border-2 mt-5">Results</h2>
+                    <template id="tableTemplate">
+                        <tr>
+                            <td class=""></td>
+                            <td class=""></td>
+                            <td class=""></td>
+                            <td class=""></td>
+                            <td class=""></td>
+                        </tr>
+                    </template>
                     <div class="table-responsive">
                         <table class="table table-striped table-sm">
                             <tbody id="results">

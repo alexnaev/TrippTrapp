@@ -59,6 +59,19 @@ footer .social>a:hover {
     color: var(--primary-color);
 }
 
+.Tripp {
+    color: darkgreen;
+}
+
+.Trapp {
+    color: darkblue;
+}
+
+.TrippTrappTresko {
+    color: red;
+    font-weight: bold;
+}
+
 code[class*="language-"],
 pre[class*="language-"] {
     white-space: pre-wrap;
