@@ -23,7 +23,15 @@ require_once 'shared/header.php';
         </div>
     </div>
 </main>
-
+<script src="js/prism.js"></script>
+<script>
+    Prism.plugins.NormalizeWhitespace.setDefaults({
+        'remove-trailing': true,
+        'remove-indent': true,
+        'left-trim': true,
+        'right-trim': true
+    })
+</script>
 <?php
 require_once 'shared/footer.php';
 ?>

@@ -6,9 +6,9 @@ require_once 'shared/header.php';
     <div class="container">
         <div class="row g-5 py-5 row-cols-1 row-cols-lg-2">
             <div class="col order-last order-lg-first">
-                <h1 class="display-5 fw-bold lh-1 mb-3">APP NAME: A Coding Project</h1>
+                <h1 class="display-5 fw-bold lh-1 mb-3">TrippTrapp: A Coding Project</h1>
                 <h4 class="lead">
-                    Live life one loop at a time. A javascript coding exercise using loops. Write a program that displays the numbers from 0 to 100. Display the even numbers in <strong>BOLD.</strong>
+                    Let´s go TrippTrappTresko. A javascript coding exercise using loops. Write a short program that displays each number from 1 to 100. For each multiple of 3, display "Tripp" instead of the number. For each multiple of 5, display "Trapp" instead of the number. For numbers which are multiples of both 3 and 5, display "TrippTrappTresko" instead of the number.
                 </h4>
                 <ul class="fa-ul pt-2 checklist">
                     <li><span class="fa-li"><i class="fas fa-check-square"></i></span>CSS and Bootstrap Layout</li>
@@ -20,7 +20,7 @@ require_once 'shared/header.php';
                     <li><span class="fa-li"><i class="fas fa-check-square"></i></span>Javascript Boolean Logic</li>
                 </ul>
                 <div>
-                    <a type="button" class="btn btn-outline-dark btn-lg px-4 me-md-2" href="<?php echo URLROOT; ?>/demo">Try It Out!</a>
+                    <a type="button" class="btn btn-outline-secondary btn-lg px-4 me-md-2" href="<?php echo URLROOT; ?>/demo">Try It Out!</a>
                 </div>
                 <h5 class="fw-bold mt-5">
                     <div class="d-flex">
@@ -34,7 +34,7 @@ require_once 'shared/header.php';
                 </h5>
             </div>
             <div class="col">
-                <img src="" alt="App Logo" class="img-fluid center-block d-block mx-auto">
+                <img src="img/TrippTrapp-logo.png" alt="App Logo" class="img-fluid center-block d-block mx-auto">
             </div>
         </div>
     </div>
