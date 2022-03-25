@@ -8,10 +8,10 @@ require_once 'shared/header.php';
             <div class="col-lg-4 col border-end border-2">
                 <h1>TrippTrapp: A Coding Project</h1>
                 <h4 class="lead">
-                    Let´s go TrippTrappTresko. A javascript coding exercise using loops. Write a short program that displays each number from 1 to 100. For each multiple of 3, display "Tripp" instead of the number. For each multiple of 5, display "Trapp" instead of the number. For numbers which are multiples of both 3 and 5, display "TrippTrappTresko" instead of the number.
+                    Let`s go TrippTrappTresko. A javascript coding exercise using loops. Write a short program that displays each number from 1 to 100. For each multiple of 3, display "Tripp" instead of the number. For each multiple of 5, display "Trapp" instead of the number. For numbers which are multiples of both 3 and 5, display "TrippTrappTresko" instead of the number.
                 </h4>
                 <h2 class="mt-5 border-bottom border-2">Instructions</h2>
-                <p>Enter a starting value and an ending value. Press the button and the values will appear.</p>
+                <p>Enter a Tripp value and a Trapp value. Press the button and the values will appear.</p>
             </div>
             <div class="col-lg-8 col">
                 <div>

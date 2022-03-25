@@ -8,7 +8,7 @@ require_once 'shared/header.php';
             <div class="col order-last order-lg-first">
                 <h1 class="display-5 fw-bold lh-1 mb-3">TrippTrapp: A Coding Project</h1>
                 <h4 class="lead">
-                    Let´s go TrippTrappTresko. A javascript coding exercise using loops. Write a short program that displays each number from 1 to 100. For each multiple of 3, display "Tripp" instead of the number. For each multiple of 5, display "Trapp" instead of the number. For numbers which are multiples of both 3 and 5, display "TrippTrappTresko" instead of the number.
+                    Let`s go TrippTrappTresko. A javascript coding exercise using loops. Write a short program that displays each number from 1 to 100. For each multiple of 3, display "Tripp" instead of the number. For each multiple of 5, display "Trapp" instead of the number. For numbers which are multiples of both 3 and 5, display "TrippTrappTresko" instead of the number.
                 </h4>
                 <ul class="fa-ul pt-2 checklist">
                     <li><span class="fa-li"><i class="fas fa-check-square"></i></span>CSS and Bootstrap Layout</li>
